@@ -4,6 +4,9 @@ This is an example of a Javascript DOM project and functions which demostrates a
 ## Here is a display of the picture:
 <img width="1381" alt="Screenshot 2024-05-25 at 10 58 17 AM" src="https://github.com/Yemi-Babs/Javascript/assets/167694952/4fa5a646-834f-4e6a-99ca-5a090867d085">
 
+## Deployed in Github:
+ https://yemi-babs.github.io/Javascript/
+
 ## License
 
 Copyright © 2024 Olayemi Babalola
